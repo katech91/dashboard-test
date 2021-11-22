@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">dashboard-test</string>
+
+    //item_grade
+    <string name="grade_title">Оценка портфеля</string>
+    <string name="grade_title_stock">В акциях</string>
+    <string name="grade_title_usd">Остаток USD</string>
+    <string name="grade_title_rub">Остаток RUB</string>
+
+    //item refill
+    <string name="refill_title_usd">Пополнено</string>
+    <string name="refill_withdraw_title_usd">Выведено</string>
+    <string name="deposit_rub">Пополнено RUB</string>
+    <string name="withdraw_rub">Выведено RUB</string>
+
+    //item_profit
+    <string name="profit_title">Прибыль с акций</string>
+    <string name="profit_invested">Инвестировано</string>
+    <string name="profit_total_coast">Общая стоимость</string>
+
+    //item_bonus
+    <string name="bonus_title">Ожидаемый бонус</string>
+    <string name="bonus_team">В команде</string>
+</resources>

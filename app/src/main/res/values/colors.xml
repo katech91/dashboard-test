@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="ligth_gray">#ECEFF1</color>
+    <color name="medium_gray">#BDBDBD</color>
+    <color name="dark_gray">#757575</color>
+
+    //background colors for dashboards
+    <color name="background_green">#E5FFF5</color>
+    <color name="background_purple">#B2B0FF</color>
+    <color name="background_gray">#EEF0F5</color>
+    <color name="background_pink">#F6C5EF</color>
+    
+    <color name="green">#66BB6A</color>
+    <color name="purple">#5E35B1</color>
+    <color name="orange">#FFA000</color>
+</resources>

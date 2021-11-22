@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Dashboard">
+        <item name="android:padding">10dp</item>
+        <item name="android:background">@drawable/dashboard_background</item>
+        <item name="android:layout_width">300dp</item>
+        <item name="android:layout_height">200dp</item>
+    </style>
+
+    <style name="ArrowIcon">
+        <item name="android:layout_width">18dp</item>
+        <item name="android:layout_height">18dp</item>
+    </style>
+
+    <style name="InfoIcon">
+        <item name="android:layout_width">20dp</item>
+        <item name="android:layout_height">20dp</item>
+        <item name="android:tint">@color/dark_gray</item>
+    </style>
+
+    <style name="DashboardTitle">
+        <item name="android:textSize">12sp</item>
+        <item name="android:textColor">@color/dark_gray</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+
+    <style name="DashboardDigits">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="DashboardBigDigits" parent="DashboardDigits">
+        <item name="android:textSize">30sp</item>
+    </style>
+
+    <style name="DashboardMiddleDigits" parent="DashboardDigits">
+        <item name="android:textSize">18sp</item>
+    </style>
+
+    <style name="DashboardSmallDigits" parent="DashboardDigits">
+        <item name="android:textSize">14sp</item>
+    </style>
+</resources>
